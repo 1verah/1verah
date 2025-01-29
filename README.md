@@ -1,5 +1,5 @@
 # 💫 About Me:
-🧙‍♂️ Full-stack Developer embarking on a continuous learning journey through tech innovation.<br>📖 Informatic Engineering Graduate — Universidad Andrés Bello, Chile.<br>🚩 I’m interested in collaborating on projects that involve learning new skills and exploring creative solutions.<br>🤝 Looking to collaborate on projects that challenge me to learn emerging technologies, solve complex problems, and experiment with creative technical approaches.<br>🌱 Currently deepening my expertise in: DevOps tools .  
+🧙‍♂️ Full-stack Developer embarking on a continuous learning journey through tech innovation.<br>📖 Computer Engineering Graduate — Universidad Andrés Bello, Chile.<br>🚩 I’m interested in collaborating on projects that involve learning new skills and exploring creative solutions.<br>🤝 Looking to collaborate on projects that challenge me to learn emerging technologies, solve complex problems, and experiment with creative technical approaches.<br>🌱 Currently deepening my expertise in: DevOps tools .  
 
 
 # 💻 Tech Stack
