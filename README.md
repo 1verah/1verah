@@ -1,6 +1,10 @@
 # 💫 About Me:
-🧙‍♂️ Full-stack Developer embarking on a continuous learning journey through tech innovation.<br>📖 Computer Engineering Graduate — Universidad Andrés Bello, Chile.<br>🚩 I’m interested in collaborating on projects that involve learning new skills and exploring creative solutions.<br>🤝 Looking to collaborate on projects that challenge me to learn emerging technologies, solve complex problems, and experiment with creative technical approaches.<br>🌱 Currently deepening my expertise in: DevOps tools .  
+🧙‍♂️ Full-stack Developer embarking on a continuous learning journey through tech innovation.<br>📖 Computer Engineering Graduate — Universidad Andrés Bello, Chile.<br>🚩 I’m interested in collaborating on projects that involve learning new skills and exploring creative solutions.<br>🤝 Looking to collaborate on projects that challenge me to learn emerging technologies, solve complex problems, and experiment with creative technical approaches.<br>🌱 Currently deepening my expertise in: DevOps tools.  
 
+# 🏆Certifications:
+
+🌩️ **Microsoft Certified: Azure Fundamentals** | *In Progress (April 2025)*  
+🚀 **Microsoft Certified: Azure Developer Associate** | *Studying (Target: June 2025)*  
 
 # 💻 Tech Stack
 
