@@ -3,7 +3,7 @@
 
 # 🏆Certifications:
 
-🌩️ **Microsoft Certified: Azure Fundamentals** | *In Progress (April 2025)*  
+🌩️ **Microsoft Certified: Azure Fundamentals** | (April 2025)  
 🚀 **Microsoft Certified: Azure Developer Associate** | *Studying (Target: June 2025)*  
 
 # 💻 Tech Stack
