@@ -15,7 +15,7 @@ const franco = {
         backEnd: {
             js: ["Node.js", "Express"],
             python: ["FastAPI"],
-            go: ["Gorilla Mux", "Clean Architecture", "JWT Auth"], // ← Aquí los cambios
+            go: ["Go... 🤔"],
         },
         devOps: ["Docker🐳", "Kubernetes (AKS)", "CI/CD", "GitHub Actions"],
         cloudServices: {
