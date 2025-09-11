@@ -22,13 +22,13 @@ const franco = {
             azure: ["Functions", "AKS", "Security", "App Services"],
             aws: ["EC2", "S3", "Lambda", "CloudWatch", "RDS"],
         },
-        databases: ["PostgreSQL", "MongoDB", "Firebase Firestore", "BigQuery", "MySQL"], // ← Agregué MySQL
-        misc: ["REST APIs", "JWT Authentication", "Power Platform", "Postman", "Environment Config"], // ← Agregué config
+        databases: ["PostgreSQL", "MongoDB", "Firebase Firestore", "BigQuery", "MySQL"],
+        misc: ["REST APIs", "JWT Authentication", "Power Platform", "Postman"],
         data: ["Pandas", "Machine Learning basics"],
     },
     architecture: {
         frontEnd: ["SPA", "SSR"],
-        backEnd: ["microservices", "event-driven", "serverless", "layered architecture"], // ← Agregué layered
+        backEnd: ["microservices", "event-driven", "serverless", "layered architecture"],
         devOps: ["CI/CD pipelines"],
         databases: ["Relational", "NoSQL"],
     },
